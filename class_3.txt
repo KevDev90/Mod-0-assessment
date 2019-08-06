@@ -1,0 +1,13 @@
+Dining room class
+
+Attributes 
+1. Shape (string)
+2. Color (string)
+3. Recyclable (boolean)
+4. Weight (string)
+
+Methods
+1. Recycle_table (wooden furniture is broken down to recycle)
+2. Paint_table (modifies the color attribute)
+3. Put_20lb_weight_on_table (modifies the weight attribute)
+4. Cut_piece_out_of_corner_of_table (modifies the shape of the table)
