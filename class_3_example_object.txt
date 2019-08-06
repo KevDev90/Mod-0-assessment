@@ -1,0 +1,11 @@
+Mahogany table
+
+Shape (rectangular)
+Color (dark brown)
+Recyclable (yes)
+Weight (150 lbs)
+
+1. Recycle_table (true) this table can be recycled
+2. Paint_table- Color the table red
+3. Put_20lb_weight_on_table weighs down the table by 20 lbs.
+4. Cut_piece_out_of_corner_of_table- Leaves 3 equal corners of the table.
